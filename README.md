@@ -31,5 +31,6 @@ Here are some images
 
 ![image](https://github.com/shreyamaheshwari1/I-Chat_App/assets/114720478/84e3aefb-d306-46b0-9aea-275a45f5d075)
 
+![image](https://github.com/shreyamaheshwari1/I-Chat_App/assets/114720478/6f97031e-7948-4b1f-8b13-ca1a631a9549)
 
 
