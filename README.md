@@ -25,3 +25,11 @@ Integrate frontend with backend: Connect the frontend UI with the backend server
 Implement UI interactions: Write JavaScript code to handle user interactions like sending messages, joining rooms, displaying notifications, and updating the UI in real-time.
 
 Test and deploy: Test your chat application locally, ensuring that messages are sent and received in real-time. Once satisfied, deploy your application to a hosting platform or server so that it can be accessed by users.
+
+
+Here are some images
+
+![image](https://github.com/shreyamaheshwari1/I-Chat_App/assets/114720478/84e3aefb-d306-46b0-9aea-275a45f5d075)
+
+
+
